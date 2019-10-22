@@ -2,7 +2,7 @@
 layout: post
 title: 【新品预定】火焰纹章·风花雪月卡套
 date: 2019-10-16
-categories: blog
+categories: 淘宝
 tags: [【淘宝】]
 description: 新品预定。
 ---

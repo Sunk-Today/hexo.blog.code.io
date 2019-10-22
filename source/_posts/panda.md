@@ -2,7 +2,7 @@
 layout: post
 title: 【效率工具】梯子
 date: 2019-10-15
-categories: blog
+categories: 工具
 tags: [IT]
 description: 优质稳定。
 ---
